@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+
+	<channel>
+		<title>noticias</title>   
+		<link>https://kaseto.github.io/</link>   
+		<description>Noticias de humor</description>
+		
+		<item>         
+		<title>Logra que su hija haga la cama cada día haciéndole creer que es un nuevo reto viral</title>         
+		<link>https://kaseto.github.io/</link>         
+		<description>Noticias de humor creadas para la PAC</description>   
+		</item>
+        
+		<item>         
+		<title>Los recortes en Ciencia obligan a los matemáticos a poner anuncios en el número Pi cada diez cifras</title>         
+		<link>https://kaseto.github.io/</link>         
+		<description>Noticias de humor para la PAC</description>   
+		</item>
+		<item>
+		<title>Una serpiente sin piel no sabe qué ponerse</title>         
+		<link>https://kaseto.github.io/</link>         
+		<description>Noticias de humor para la PAC</description>   
+		</item>
+
+		<item>         
+		<title>Los científicos del CERN de los otros 189 universos paralelos ya han hecho más avances que los del nuestro</title>         
+		<link>https://kaseto.github.io/</link>         
+		<description>Noticias de humor para la PAC</description>   
+		</item>
+
+		<item>         
+		<title>Un asesino en serie lamenta ser el único que aún no tiene documental en Netflix</title>         
+		<link>https://kaseto.github.io/</link>         
+		<description>Noticias de humor para la PAC</description>   
+		</item>
+
+	</channel> 
+</rss>
